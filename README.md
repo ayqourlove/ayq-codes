@@ -1,3 +1,3 @@
 # cprimerplus
 
-test 001
+AYQ 学习《C Primer Plus》代码文件仓库。
