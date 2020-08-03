@@ -10,6 +10,6 @@ int main()
     scanf("%s",lname);
     printf("%s %s\n",fname,lname);
     k1 = strlen(fname),k2 = strlen(lname);
-    printf("%*d %*d",k1,k1,k2,k2);//论对齐的艺术
+    printf("%*d %*d",k1,k1,k2,k2);
     return 0;
-}//写完这个觉得自己好牛逼，，，，
+}
